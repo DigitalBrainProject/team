@@ -1,5 +1,5 @@
-# BM2.0 Digital Brain Team page
-This page is for communications among BM2.0 Digital Brain team members.
+# Digital Brain Team page
+Information for [Brain/Mind 2.0](https://brainminds.jp) [Digital Brain Project](../home) members
 
 ## Upcoming Events
 
@@ -9,7 +9,7 @@ This page is for communications among BM2.0 Digital Brain team members.
 
 テーマ：データ同化
 
-発表者：山下宙人（五十嵐課題分担者）、山下祐一、北城圭一
+発表者：山下宙人、山下祐一、北城圭一
 
 ### 1st Digital Brain Hackathon
 
@@ -39,11 +39,11 @@ This page is for communications among BM2.0 Digital Brain team members.
 
 テーマ：疾患研究に関連して
 
-矢田：異常タンパク質蓄積進行-グリア細胞ネットワーク連関を解明・再現するデータ駆動型数理モデルの開発
+矢田 祐一郎：異常タンパク質蓄積進行-グリア細胞ネットワーク連関を解明・再現するデータ駆動型数理モデルの開発
 
-武井：人工神経回路を用いた運動障害のデジタル空間再現法の開発	
+武井 智彦：人工神経回路を用いた運動障害のデジタル空間再現法の開発	
 
-田中：神経・精神疾患モデリング
+田中 沙織：神経・精神疾患モデリング
 
 ### 3rd Digital Brain Meeting
 
@@ -53,9 +53,9 @@ This page is for communications among BM2.0 Digital Brain team members.
 
 Carlos Gutierrez：AIを使った多重スケール脳モデリングのためのフレームワーク(BrainScaler)	
 
-孫：脳の構造と活動データに基づくデジタル脳の機能化と脳アーキテクチャを考慮した深層学習モデルの構築
+孫　哲：脳の構造と活動データに基づくデジタル脳の機能化と脳アーキテクチャを考慮した深層学習モデルの構築
 
-五十嵐：シミュレーション・データ同化による脳機能/病態の再現
+五十嵐 潤：シミュレーション・データ同化による脳機能/病態の再現
 
 ### 2nd Digital Brain Meeting
 
@@ -85,19 +85,19 @@ Carlos Gutierrez：AIを使った多重スケール脳モデリングのため�
 
 2025/9/19-21 [九州大学日本橋サテライト](https://www.kyushu-u.ac.jp/ja/university/facility/nihonbashi/)
 
-### Digital Brain PI Meeting (in the 1st Digital Brain Workshop)
+### デジタル脳中核拠点＋個別重点課題 合同PIミーティング
 
 2025/9/19 19:00- [九州大学日本橋サテライト](https://www.kyushu-u.ac.jp/ja/university/facility/nihonbashi/)
 
-### デジタル脳＋神経疾患グループ合同ミーティング
+### デジタル脳＋神経疾患グループ 合同ミーティング
 
 2025/6/16 京都大学医学部
 
-### デジタル脳＋精神疾患グループ合同ミーティング
+### デジタル脳＋精神疾患グループ 合同ミーティング
 
 2025/5/29 東京大学医学部
 
-### Brain/MINDS 2.0 中核拠点 デジタル脳グループミーティング
+### Brain/MINDS 2.0 中核拠点デジタル脳グループミーティング
 
 2025/4/17 Online
 
@@ -107,7 +107,7 @@ Carlos Gutierrez：AIを使った多重スケール脳モデリングのため�
 * [Digital Brain Seminar](../seminar)
 * [Brain/MINDS 2.0](https://brainminds.jp)
 * [Brain/MINDS Data Portal](https://dataportal.brainminds.jp)
-* [Brain/MINDS Beyond Human Brain MRI Project](https://hbm.brainminds-beyond.jp)
+* [Brain/MINDS Beyond Human Brain Brain MRI Data Portal](https://hbm.brainminds-beyond.jp)
 * [AMED 脳とこころの研究推進プログラム](https://www.amed.go.jp/program/list/15/01/002.html)
 * [MEXT 脳科学作業部会](https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/108/index.html)
   
