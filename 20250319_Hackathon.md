@@ -9,7 +9,7 @@
 ## 参加者
 中核拠点デジタル脳グループ、個別重点課題デジタル脳領域を中心に、デジタル脳開発作業に関与するメンバー
 
-[こちから参加登録](https://forms.office.com/Pages/ResponsePage.aspx?id=jfvA2Fa7u0SfSsWOdGVlLhyH53jp7JVBu-b48aZDzLtUN05OME5IUEk0Mk5IU0tJUkhEWExNOERDRi4u)をお願いします。
+こちから3月5日までに[参加登録](https://forms.office.com/Pages/ResponsePage.aspx?id=jfvA2Fa7u0SfSsWOdGVlLhyH53jp7JVBu-b48aZDzLtUN05OME5IUEk0Mk5IU0tJUkhEWExNOERDRi4u)をお願いします。
 
 ## 日程（案）
  
