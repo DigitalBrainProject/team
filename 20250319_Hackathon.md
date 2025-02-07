@@ -9,18 +9,22 @@
 ## 参加者
 中核拠点デジタル脳グループ、個別重点課題デジタル脳領域を中心に、デジタル脳開発作業に関与するメンバー
 
+[こちから参加登録](https://forms.office.com/Pages/ResponsePage.aspx?id=jfvA2Fa7u0SfSsWOdGVlLhyH53jp7JVBu-b48aZDzLtUN05OME5IUEk0Mk5IU0tJUkhEWExNOERDRi4u)をお願いします。
+
 ## 日程（案）
  
 ### 3月19日（水）
 13:00　開会、趣旨説明（銅谷）、参加者自己紹介
 
 13:30　デジタル脳関連の研究開発状況のレビュー  
-* Allen Institute（Carlos?）
-* EBRAINS（　　）
-* TVB（　　）
-* OptiNiSt（山根?）
-* デジタル脳計算サーバー（磯村?）
-* その他？
+* 脳統合で取得予定のデータ
+* 種間データ/モデル変換
+* データ駆動モデリング：TVB, etc.
+* マルチスケールシミュレーション/モデル縮約
+* ワークフローツール: CodeOcean, nextflow, snakemake, etc.
+* クラウドデータ/計算インフラ
+* デジタル脳計算サーバー
+* その他
 
 16:00　脳統合デジタル脳の全体像の議論
 
