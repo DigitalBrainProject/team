@@ -12,8 +12,8 @@ Information for [Brain/Mind 2.0](https://brainminds.jp) [Digital Brain Project](
 発表者：山下宙人、山下祐一、北城圭一
 
 ### [1st Digital Brain Hackathon](20250319_Hackathon.html)
-
-2025/3/19-21 理化学研究所 脳科学研究センター (CBS)
+2025/3/19-21 理化学研究所 脳科学研究センター (CBS)  
+上記ページより3月5日までに参加登録お願いします。
 
 ### 6th Digital Brain Meeting
 
