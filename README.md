@@ -3,18 +3,6 @@ Information for [Brain/Mind 2.0](https://brainminds.jp) [Digital Brain Project](
 
 ## Upcoming Events
 
-### 5th Digital Brain Meeting
-
-2025/2/13 Thu 16:00-17:30
-
-テーマ：データ同化
-
-発表者：山下宙人、山下祐一、北城圭一
-
-### [1st Digital Brain Hackathon](20250319_Hackathon.html)
-2025/3/19-21 理化学研究所 脳科学研究センター (CBS)  
-上記ページより3月5日までに参加登録お願いします。
-
 ### 6th Digital Brain Meeting
 
 2025/3/31 Mon 13:00-14:30
@@ -31,7 +19,53 @@ Information for [Brain/Mind 2.0](https://brainminds.jp) [Digital Brain Project](
 
 発表者：平理一郎、山崎匡、磯村拓哉
 
+### [Neuroscience2025](https://neuroscience2025.jnss.org/en) Satellite Symposium
+
+2025/7/23 Wed 13:00-17:00  
+Toki Messe, Niigata
+
+### [Neuroscience2025 Symposia](https://neuroscience2025.jnss.org/program.html#p05)
+
+**1S07m How FAIR data can advance neuroscience?**  
+7/24 Thu 8:45-10:45 Room 7 (302A)  
+Organizers: Yukako Yamane (OIST), Saori Tanaka (ATR)  
+Speakers：  
+* Saori Tanaka (ATR Brain Information Communication Research Lab)  
+* Michael Denker (Electro- and Optophysiology Behavioral Neuroscience Institute for Advanced Simulation (IAS-6))  
+* Takuya Hayashi (RIKEN Center for Biosystems Dynamics Research)  
+* Alexander Fleishcmann (Brown University)  
+* Franco Pestilli (The University of Texas at Austin)
+
+**2S05m The Digital Brain: Frameworks for Current and Future Innovation**  
+7/25 Fri 8:45-10:45 Room 5 (301A)  
+Organizers: Carlos Enrique Gutierrez (OIST), Viktor Jirsa (INS)  
+Speakers:  
+* Viktor Jirsa (Institut de Neurosciences des Systemes)  
+* Salvador Dura-Bernal (State University of New York (SUNY)/ Downstate Health Sciences University)  
+* Kenji Doya (Okinawa Institute of Science and Technology Graduate University)  
+* Sacha van Albada (Institute for Advanced Simulation (IAS-6)/ Jülich Research Centre)  
+
+**2S05a Advances in Brain Modeling and AI applications**  
+7/25 Fri 14:10-16:10 Room 5 (301A)  
+Organizers: Ken Nakae (NINS), Kenji Doya (OIST)  
+Speakers：  
+* Yi Zeng (Brain-inspired Cognitive Intelligence Lab, Chinese Academy of Sciences)  
+* Shinya Ito (Allen Institute, Modeling, Analysis & Theory (MAT) team)  
+* Takuya Isomura (RIKEN Center for Brain Science)  
+* Charissa Poon (RIKEN Center for Brain Science)  
+
 ## Previous Events
+
+### [1st Digital Brain Hackathon](20250319_Hackathon.html)
+2025/3/19-21 理化学研究所 脳科学研究センター (CBS)  
+
+### 5th Digital Brain Meeting
+
+2025/2/13 Thu 16:00-17:30
+
+テーマ：データ同化
+
+発表者：山下宙人、山下祐一、北城圭一
 
 ### 4th Digital Brain Meeting
 
