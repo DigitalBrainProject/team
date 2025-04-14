@@ -3,26 +3,10 @@ Information for [Brain/Mind 2.0](https://brainminds.jp) [Digital Brain Project](
 
 ## Upcoming Events
 
-### 6th Digital Brain Meeting
+### [Neuroscience2025](https://neuroscience2025.jnss.org/en) Satellite Symposium: [Connecting Digital Brains Across the World](https://digitalbrainproject.github.io/home/JNS2025satellite.html)
 
-2025/3/31 Mon 13:00-14:30
-
-テーマ：感覚/運動
-
-発表者：小池康晴、中江健、池谷裕二
-
-### 7th Digital Brain Meeting
-
-2025/4/14 Mon 16:00-17:30
-
-テーマ：大規模/多階層モデル
-
-発表者：平理一郎、山崎匡、磯村拓哉
-
-### [Neuroscience2025](https://neuroscience2025.jnss.org/en) Satellite Symposium
-
-2025/7/23 Wed 13:00-17:00  
-Toki Messe, Niigata
+* 2025/7/23 Wed 13:00-17:00  
+* Toki Messe, Niigata
 
 ### [Neuroscience2025 Symposia](https://neuroscience2025.jnss.org/program.html#p05)
 
@@ -55,6 +39,24 @@ Speakers：
 * Charissa Poon (RIKEN Center for Brain Science)  
 
 ## Previous Events
+
+### 7th Digital Brain Meeting
+
+2025/4/14 Mon 16:00-17:30  
+テーマ：大規模/多階層モデル
+
+* 平理一郎：LLMを介した大規模計算神経科学の加速
+* 山崎匡：ボトムアップでヒトデジタル脳を構築するための局所神経回路構造の複雑さに関する多種多階層スケーリング技術の開発
+* 磯村拓哉：脳計算機構の解析法の開発
+
+### 6th Digital Brain Meeting
+
+2025/3/31 Mon 13:00-14:30  
+テーマ：感覚/運動
+
+* 小池康晴：VR環境における運動と感覚に関する研究開発
+* 中江健：デジタルツインマーモセットの開発
+* 池谷裕二：生成AI を用いた脳情報の逆相関探索と外部デジタル化
 
 ### [1st Digital Brain Hackathon](20250319_Hackathon.html)
 2025/3/19-21 理化学研究所 脳科学研究センター (CBS)  
