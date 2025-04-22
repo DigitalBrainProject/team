@@ -3,10 +3,16 @@ Information for [Brain/Mind 2.0](https://brainminds.jp) [Digital Brain Project](
 
 ## Upcoming Events
 
+### 8th Digital Brain Meeting
+
+2025/5/19 Mon 16:00-17:30  
+
+* 銅谷賢治：デジタル脳プラットフォームの構築方針
+
 ### [Neuroscience2025](https://neuroscience2025.jnss.org/en) Satellite Symposium: [Connecting Digital Brains Across the World](https://digitalbrainproject.github.io/home/JNS2025satellite.html)
 
-* 2025/7/23 Wed 13:00-17:00  
-* Toki Messe, Niigata
+2025/7/23 Wed 13:00-17:00  
+Toki Messe, Niigata
 
 ### [Neuroscience2025 Symposia](https://neuroscience2025.jnss.org/program.html#p05)
 
@@ -17,7 +23,7 @@ Speakers：
 * Saori Tanaka (ATR Brain Information Communication Research Lab)  
 * Michael Denker (Electro- and Optophysiology Behavioral Neuroscience Institute for Advanced Simulation (IAS-6))  
 * Takuya Hayashi (RIKEN Center for Biosystems Dynamics Research)  
-* Alexander Fleishcmann (Brown University)  
+* Jason Ritt (Brown University)  
 * Franco Pestilli (The University of Texas at Austin)
 
 **2S05m The Digital Brain: Frameworks for Current and Future Innovation**  
