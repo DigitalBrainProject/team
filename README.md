@@ -44,17 +44,21 @@ Speakers：
 
 * 新規個別重点研究課題紹介
 
-### 脳統合プログラム分科会・新規課題キックオフ
+### 脳統合プログラム分科会
 
-2025/9/30-10/1 [東京大学伊藤国際学術研究センター](https://www.u-tokyo.ac.jp/adm/iirc/ja/index.html)
+2025/9/30-10/1 Tue-Wed [東京大学伊藤国際学術研究センター](https://www.u-tokyo.ac.jp/adm/iirc/ja/index.html)
+
+* 新規課題キックオフ
+* ワークショップ・パネルなど
 
 ### 2nd Digital Brain Workshop
+Korean Society for Computational Neuroscienceと共催
 
-2025/10/17-19 [九州大学九重共同研修所](https://kokonoe.student.kyushu-u.ac.jp/kenshusho/index.html)
+2025/10/17-19 Fri-Sun [九州大学九重共同研修所](https://kokonoe.student.kyushu-u.ac.jp/kenshusho/index.html)
 
 ### 脳統合プログラム進捗報告会
 
-2025/10/15-17 [ステーションコンファレンス東京](https://www.tstc.jp/tokyo/)
+2025/12/15-17 Mon-Wed [ステーションコンファレンス東京](https://www.tstc.jp/tokyo/)
 
 
 ## Previous Events
