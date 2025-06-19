@@ -3,12 +3,6 @@ Information for [Brain/Mind 2.0](https://brainminds.jp) [Digital Brain Project](
 
 ## Upcoming Events
 
-### 8th Digital Brain Meeting
-
-2025/5/19 Mon 16:00-17:30  
-
-* 銅谷賢治：デジタル脳プラットフォームの構築方針
-
 ### [Neuroscience2025](https://neuroscience2025.jnss.org/en) Satellite Symposium: [Connecting Digital Brains Across the World](https://digitalbrainproject.github.io/home/JNS2025satellite.html)
 
 2025/7/23 Wed 13:00-17:00  
@@ -44,7 +38,43 @@ Speakers：
 * Takuya Isomura (RIKEN Center for Brain Science)  
 * Charissa Poon (RIKEN Center for Brain Science)  
 
+### 10th Digital Brain Meeting
+
+2025/8/18 Mon 16:00-17:30  
+
+* 新規個別重点研究課題紹介
+
+### 脳統合プログラム分科会・新規課題キックオフ
+
+2025/9/30-10/1 [東京大学伊藤国際学術研究センター](https://www.u-tokyo.ac.jp/adm/iirc/ja/index.html)
+
+### 2nd Digital Brain Workshop
+
+2025/10/17-19 [九州大学九重共同研修所](https://kokonoe.student.kyushu-u.ac.jp/kenshusho/index.html)
+
+### 脳統合プログラム進捗報告会
+
+2025/10/15-17 [ステーションコンファレンス東京](https://www.tstc.jp/tokyo/)
+
+
 ## Previous Events
+
+### 9th Digital Brain Meeting
+
+2025/6/16 Mon 16:00-17:30  
+
+* Toward a position paper (Doya)
+* AWS Open Data update (Doya)
+* Hokusai SS update (Igarashi)
+* Digital Brain Server update (Isomura)
+* Workflow design tool proposal/preview (Carlos)
+* Metadata update (Tanaka, Yamane)
+
+### 8th Digital Brain Meeting
+
+2025/5/19 Mon 16:00-17:30  
+
+* 銅谷賢治：デジタル脳プラットフォームの構築方針
 
 ### 7th Digital Brain Meeting
 
