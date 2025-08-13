@@ -3,10 +3,45 @@ Information for [Brain/Mind 2.0](https://brainminds.jp) [Digital Brain Project](
 
 ## Upcoming Events
 
-### [Neuroscience2025](https://neuroscience2025.jnss.org/en) Satellite Symposium: [Connecting Digital Brains Across the World](https://digitalbrainproject.github.io/home/JNS2025satellite.html)
+### 10th Digital Brain Meeting
 
-2025/7/23 Wed 13:00-17:00  
-Toki Messe, Niigata
+2025/8/18 Mon 16:00-17:30  
+
+* 高橋雄太：ミクロとマクロを統合するデジタルツイン脳による精神疾患治療シミュレーション  
+* 小林泰良：SCA6 の小脳運動失調メカニズムの解明に向けたヒト脳・身体シミュレーション  
+* 濱口航介：細胞脱落が引き起こす意思決定回路変遷のモデル構築  
+
+### 11th Digital Brain Meeting
+
+2025/9/16 Tue 16:00-17:30  
+
+* 高橋英彦：デジタル世代のインターネット依存・ADHDにおける縦断的脳ダイナミクスデータとスマホログデータを用いた発症・治療効果予測モデルの構築  
+* 武田祐輔：統合失調症幻覚・妄想メカニズムをデジタル脳：コネクトームダイナミクスモデルのリプレイ脳活動で理解する  
+* 松井鉄平：マルチモーダルデータによる異種間での脳画像変換法の開発  
+
+### 2nd Digital Brain Hackathon
+
+2025/9/28-30 (TBC)  
+
+### 脳統合プログラム分科会
+
+2025/9/30-10/1 Tue-Wed [東京大学伊藤国際学術研究センター](https://www.u-tokyo.ac.jp/adm/iirc/ja/index.html)
+
+* 新規課題キックオフ
+* ワークショップ・パネルなど
+
+### [The 2nd Digital Brain Workshop](https://digitalbrainproject.github.io/workshop/)
+
+Korean Society for Computational Neuroscienceと共催
+
+2025/10/17-19 Fri-Sun [九州大学九重共同研修所](https://kokonoe.student.kyushu-u.ac.jp/kenshusho/index.html)
+
+### 脳統合プログラム進捗報告会
+
+2025/12/15-17 Mon-Wed [ステーションコンファレンス東京](https://www.tstc.jp/tokyo/)
+
+
+## Previous Events
 
 ### [Neuroscience2025 Symposia](https://neuroscience2025.jnss.org/program.html#p05)
 
@@ -38,30 +73,10 @@ Speakers：
 * Takuya Isomura (RIKEN Center for Brain Science)  
 * Charissa Poon (RIKEN Center for Brain Science)  
 
-### 10th Digital Brain Meeting
+### [Neuroscience2025](https://neuroscience2025.jnss.org/en) Satellite Symposium: [Connecting Digital Brains Across the World](https://digitalbrainproject.github.io/home/JNS2025satellite.html)
 
-2025/8/18 Mon 16:00-17:30  
-
-* 新規個別重点研究課題紹介
-
-### 脳統合プログラム分科会
-
-2025/9/30-10/1 Tue-Wed [東京大学伊藤国際学術研究センター](https://www.u-tokyo.ac.jp/adm/iirc/ja/index.html)
-
-* 新規課題キックオフ
-* ワークショップ・パネルなど
-
-### 2nd Digital Brain Workshop
-Korean Society for Computational Neuroscienceと共催
-
-2025/10/17-19 Fri-Sun [九州大学九重共同研修所](https://kokonoe.student.kyushu-u.ac.jp/kenshusho/index.html)
-
-### 脳統合プログラム進捗報告会
-
-2025/12/15-17 Mon-Wed [ステーションコンファレンス東京](https://www.tstc.jp/tokyo/)
-
-
-## Previous Events
+2025/7/23 Wed 13:00-17:00  
+Toki Messe, Niigata
 
 ### 9th Digital Brain Meeting
 
