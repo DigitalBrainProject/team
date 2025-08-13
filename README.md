@@ -1,5 +1,5 @@
 # Digital Brain Team page
-Information for [Brain/Mind 2.0](https://brainminds.jp) [Digital Brain Project](../home) members
+Information for the members of [Brain/Mind 2.0](https://brainminds.jp) [Digital Brain Project](https://digitalbrainproject.github.io/home/)
 
 ## Upcoming Events
 
