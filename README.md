@@ -19,9 +19,9 @@ Information for the members of [Brain/Mind 2.0](https://brainminds.jp) [Digital 
 * 武田祐輔：統合失調症幻覚・妄想メカニズムをデジタル脳：コネクトームダイナミクスモデルのリプレイ脳活動で理解する  
 * 松井鉄平：マルチモーダルデータによる異種間での脳画像変換法の開発  
 
-### 2nd Digital Brain Hackathon
+### [2nd Digital Brain Hackathon](20250928_Hackathon.html)
 
-2025/9/28-30 (TBC)  
+2025/9/28-30 RIKEN CBS  
 
 ### 脳統合プログラム分科会
 
