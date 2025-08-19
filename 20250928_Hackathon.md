@@ -1,7 +1,7 @@
 # The second Digital Brain Hackathon
 
-## Sept. 28 13:00 - Sept. 30 11:00, 2025  
-* Place: RIKEN CBS Central Building 3F Seminar Room S305  
+## Sept. 28 13:00 - Sept. 30 11:00, 2025
+RIKEN CBS Central Building 3F Seminar Room S305  
 (B/M 2.0 meeting will be held from Sept. 30 afternoon at Ito Hall, U Tokyo)
 
 ## Aim: Test and select the standards for making our data and tools interoperable.
@@ -64,6 +64,7 @@ SnakeMake: https://snakemake.readthedocs.io  https://snakemake.github.io
 NextFlow: https://www.nextflow.io  
 ReactFlow: https://reactflow.dev  
 CodeOcean: https://codeocean.com  
+Amaretti: https://brainlife.github.io/amaretti  https://github.com/brainlife/amaretti    
 Model Context Protocol: https://modelcontextprotocol.io  https://github.com/modelcontextprotocol  
 
 ### 4) cloud servers and interfaces
@@ -73,3 +74,5 @@ DANDI: https://dandiarchive.org  https://hub.dandiarchive.org  https://github.co
 brainlife: https://brainlife.io  https://github.com/brainlife  
 IBL: https://www.internationalbrainlab.com  https://github.com/int-brain-lab  
 OpenBrain: https://www.openbraininstitute.org  
+JupyterHub: https://jupyterhub.readthedocs.io  https://github.com/jupyterhub/jupyterhub  
+
