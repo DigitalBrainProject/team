@@ -1,8 +1,10 @@
 # The second Digital Brain Hackathon
 
 ## Sept. 28 13:00 - Sept. 30 11:00, 2025
-RIKEN CBS Central Building 3F Seminar Room S305  
+**RIKEN CBS Central Building 3F Seminar Room S305**  
 (B/M 2.0 meeting will be held from Sept. 30 afternoon at Ito Hall, U Tokyo)
+
+[**Registration Form**](https://forms.office.com/Pages/ResponsePage.aspx?id=jfvA2Fa7u0SfSsWOdGVlLhyH53jp7JVBu-b48aZDzLtUMVlYSDBMVkc0UldRUFFFTUFWWUVSVkxXVS4u)
 
 ## Aim: Test and select the standards for making our data and tools interoperable.
 
