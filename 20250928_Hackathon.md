@@ -66,8 +66,8 @@
 ### 2) model description and interfaces
 
 [Sonata](https://github.com/AllenInstitute/sonata)  
-[BMTK](https://alleninstitute.github.io/bmtk): [GihHub](https://github.com/AllenInstitute/bmtk)  
-[NetPyNE](https://www.netpyne.org): [GiyHub](https://github.com/suny-downstate-medical-center/netpyne)  
+[BMTK](https://alleninstitute.github.io/bmtk): [GitHub](https://github.com/AllenInstitute/bmtk)  
+[NetPyNE](https://www.netpyne.org): [GitHub](https://github.com/suny-downstate-medical-center/netpyne)  
 [TheVirtualBrain](https://thevirtualbrain.org): [GitHub](https://github.com/the-virtual-brain)  
 
 ### 3) workflow/pipeline tools
@@ -76,15 +76,15 @@
 [ReactFlow](https://reactflow.dev)  
 [CodeOcean](https://codeocean.com)  
 [Amaretti](https://brainlife.github.io/amaretti): [GitHub](https://github.com/brainlife/amaretti)  
-[Model Context Protocol](https://modelcontextprotocol.io) [GitHub](https://github.com/modelcontextprotocol)  
+[Model Context Protocol](https://modelcontextprotocol.io): [GitHub](https://github.com/modelcontextprotocol)  
 
 ### 4) cloud servers and interfaces
 
 [EBRAINS](https://www.ebrains.eu), [dataset](https://search.kg.ebrains.eu/?category=Dataset), [collaboratory](https://www.ebrains.eu/data/collaboratory): [GitHub](https://github.com/HumanBrainProject)  
 [DANDI](https://dandiarchive.org), [DandiHub](https://hub.dandiarchive.org): [GitHub](https://github.com/dandi)  
 [brainlife](https://brainlife.io): [GitHub](https://github.com/brainlife)  
-[JupyterHub](https://jupyterhub.readthedocs.io): [GitHub](https://github.com/jupyterhub/jupyterhub)  
 [IBL](https://www.internationalbrainlab.com): [GitHub](https://github.com/int-brain-lab)  
 [OpenBrain](https://www.openbraininstitute.org)  
-[INCF Knowledge Space](https://knowledge-space.org)
-
+[INCF Knowledge Space](https://knowledge-space.org)  
+[AWS Open Data](https://registry.opendata.aws), [Sponsorship Program](https://aws.amazon.com/jp/opendata/open-data-sponsorship-program/)  
+[JupyterHub](https://jupyterhub.readthedocs.io): [GitHub](https://github.com/jupyterhub/jupyterhub)  
