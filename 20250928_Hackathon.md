@@ -80,10 +80,11 @@
 
 ### 4) cloud servers and interfaces
 
-[EBRAINS](https://www.ebrains.eu): [GitHub](https://github.com/HumanBrainProject), [marmotgraph](https://github.com/marmotgraph)  
+[EBRAINS](https://www.ebrains.eu), [dataset](https://search.kg.ebrains.eu/?category=Dataset), [collaboratory](https://www.ebrains.eu/data/collaboratory): [GitHub](https://github.com/HumanBrainProject)  
 [DANDI](https://dandiarchive.org), [DandiHub](https://hub.dandiarchive.org): [GitHub](https://github.com/dandi)  
 [brainlife](https://brainlife.io): [GitHub](https://github.com/brainlife)  
+[JupyterHub](https://jupyterhub.readthedocs.io): [GitHub](https://github.com/jupyterhub/jupyterhub)  
 [IBL](https://www.internationalbrainlab.com): [GitHub](https://github.com/int-brain-lab)  
 [OpenBrain](https://www.openbraininstitute.org)  
-[JupyterHub](https://jupyterhub.readthedocs.io): [GitHub](https://github.com/jupyterhub/jupyterhub)  
+[INCF Knowledge Space](https://knowledge-space.org)
 
