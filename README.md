@@ -3,13 +3,52 @@ Information for the members of [Brain/Mind 2.0](https://brainminds.jp) [Digital 
 
 ## Upcoming Events
 
-### 10th Digital Brain Meeting
+### 脳統合プログラム進捗報告会
 
-2025/8/18 Mon 16:00-17:30  
+2025/12/15-17 Mon-Wed [ステーションコンファレンス東京](https://www.tstc.jp/tokyo/)
 
-* 高橋雄太：ミクロとマクロを統合するデジタルツイン脳による精神疾患治療シミュレーション  
-* 小林泰良：SCA6 の小脳運動失調メカニズムの解明に向けたヒト脳・身体シミュレーション  
-* 濱口航介：細胞脱落が引き起こす意思決定回路変遷のモデル構築  
+### 14th Digital Brain Meeting
+
+2026/1/20 Tue 16:00-17:30  
+
+## Previous Events
+
+### 13th Digital Brain Meeting
+
+2025/11/18 Tue 16:00-17:30  
+
+* Perspective paperについて
+* 今後のDigital Brain Workshopについて
+* デジタル脳成果目標各グループの進捗状況
+
+### 12th Digital Brain Meeting
+
+2025/10/21 Tue 16:00-17:30  
+
+* 2nd Digital Brain Hackathon報告
+* デジタル脳成果目標への対応  
+１．PETデータを活用した疾患責任回路を同定するデジタルモデルの構築：中江、銅谷  
+２．脳波計測データを活用したデジタルモデルの構築と病態への応用：北城、五十嵐  
+３．ヒト脳と非ヒト霊長類脳の遺伝子発現・回路構造・回路機能の対応付け：石井  
+４．革新脳・国際脳で収集した大規模脳画像データに基づく病態進展予測・層別化モデル：田中  
+５．fMRIデータを活用した全脳レベルでの動的因果モデルの構築：銅谷、磯村  
+
+### [The 2nd Digital Brain Workshop](https://digitalbrainproject.github.io/workshop/)
+
+Korean Society for Computational Neuroscienceと共催
+
+2025/10/17-19 Fri-Sun [九州大学九重共同研修所](https://kokonoe.student.kyushu-u.ac.jp/kenshusho/index.html)
+
+### 脳統合プログラム分科会
+
+2025/9/30-10/1 Tue-Wed [東京大学伊藤国際学術研究センター](https://www.u-tokyo.ac.jp/adm/iirc/ja/index.html)
+
+* 新規課題キックオフ
+* ワークショップ・パネルなど
+
+### [2nd Digital Brain Hackathon](20250928_Hackathon.html)
+
+2025/9/28-30 RIKEN CBS  
 
 ### 11th Digital Brain Meeting
 
@@ -19,29 +58,13 @@ Information for the members of [Brain/Mind 2.0](https://brainminds.jp) [Digital 
 * 武田祐輔：統合失調症幻覚・妄想メカニズムをデジタル脳：コネクトームダイナミクスモデルのリプレイ脳活動で理解する  
 * 松井鉄平：マルチモーダルデータによる異種間での脳画像変換法の開発  
 
-### [2nd Digital Brain Hackathon](20250928_Hackathon.html)
+### 10th Digital Brain Meeting
 
-2025/9/28-30 RIKEN CBS  
+2025/8/18 Mon 16:00-17:30  
 
-### 脳統合プログラム分科会
-
-2025/9/30-10/1 Tue-Wed [東京大学伊藤国際学術研究センター](https://www.u-tokyo.ac.jp/adm/iirc/ja/index.html)
-
-* 新規課題キックオフ
-* ワークショップ・パネルなど
-
-### [The 2nd Digital Brain Workshop](https://digitalbrainproject.github.io/workshop/)
-
-Korean Society for Computational Neuroscienceと共催
-
-2025/10/17-19 Fri-Sun [九州大学九重共同研修所](https://kokonoe.student.kyushu-u.ac.jp/kenshusho/index.html)
-
-### 脳統合プログラム進捗報告会
-
-2025/12/15-17 Mon-Wed [ステーションコンファレンス東京](https://www.tstc.jp/tokyo/)
-
-
-## Previous Events
+* 高橋雄太：ミクロとマクロを統合するデジタルツイン脳による精神疾患治療シミュレーション  
+* 小林泰良：SCA6 の小脳運動失調メカニズムの解明に向けたヒト脳・身体シミュレーション  
+* 濱口航介：細胞脱落が引き起こす意思決定回路変遷のモデル構築  
 
 ### [Neuroscience2025 Symposia](https://neuroscience2025.jnss.org/program.html#p05)
 
