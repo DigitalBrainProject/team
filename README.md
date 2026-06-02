@@ -3,15 +3,47 @@ Information for the members of [Brain/Mind 2.0](https://brainminds.jp) [Digital 
 
 ## Upcoming Events
 
-### 脳統合プログラム進捗報告会
+### 19th Digital Brain Meeting
 
-2025/12/15-17 Mon-Wed [ステーションコンファレンス東京](https://www.tstc.jp/tokyo/)
+2026/6/16 Tue 16:00-17:30  
+
+### [3rd Digital Brain Hackathon](20260703_Hackathon.html)
+
+2026/7/3-5 Fri-Sun Juntendo University Urayasu Hinode Campus
+
+### 3rd Digital Brain Workshop
+
+2026/10/10-12 Sat-Mon Juntendo University Urayasu Hinode Campus
+
+## Previous Events
+
+### 18th Digital Brain Meeting
+
+2026/5/19 Tue 16:00-17:30  
+
+### 17th Digital Brain Meeting
+
+2026/4/21 Tue 16:00-17:30  
+
+### 16th Digital Brain Meeting
+
+2026/3/17 Tue 16:00-17:30  
+
+### 15th Digital Brain Meeting
+
+2026/2/17 Tue 16:00-17:30  
+
+### [EBRAINS Workshop](https://digitalbrainproject.github.io/EBRAINS-Workshop/)
+
+2026/2/4-5 Wed-Thu ATR
 
 ### 14th Digital Brain Meeting
 
 2026/1/20 Tue 16:00-17:30  
 
-## Previous Events
+### 脳統合プログラム進捗報告会
+
+2025/12/15-17 Mon-Wed [ステーションコンファレンス東京](https://www.tstc.jp/tokyo/)
 
 ### 13th Digital Brain Meeting
 
