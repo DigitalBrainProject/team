@@ -1,7 +1,8 @@
 # The third Digital Brain Hackathon
 
 ## July 3rd - 5th, 2026
-Juntendo University **Urayasu Hinode Campus**
+〒279-0013 Juntendo University Urayasu Hinode Campus, 6-8-1 Hinode, Urayasu, Japan 
+〒279-0013 千葉県浦安市日の出６丁目８−１順天堂大学浦安日の出キャンパス
 
 Access guide downloads:
 
