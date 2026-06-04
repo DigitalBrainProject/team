@@ -1,7 +1,12 @@
 # The third Digital Brain Hackathon
 
 ## July 3rd - 5th, 2026
-[Juntendo University **Urayasu Hinode Campus**](https://www.juntendo.ac.jp/access/)
+Juntendo University **Urayasu Hinode Campus**
+
+Access guide downloads:
+
+- [English PDF](docs/guidance_en.pdf)
+- [Japanese PDF](docs/guidance_jp.pdf)
 
 ## Aim: Test and brush up [**Neuro-Workflow**](https://github.com/oist/neuro-workflow)
 and develop its use cases for data analysis, model building and simulation.
