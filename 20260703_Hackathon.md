@@ -4,6 +4,8 @@
 〒279-0013 Juntendo University Urayasu Hinode Campus, 6-8-1 Hinode, Urayasu, Japan 
 〒279-0013 千葉県浦安市日の出６丁目８−１順天堂大学浦安日の出キャンパス
 
+**[REGISTRATION FORM](https://forms.office.com/Pages/ResponsePage.aspx?id=jfvA2Fa7u0SfSsWOdGVlLnlYVpgjioFPlaHepAKZgopUNkFTWUpDMkNRRU1UQU9FUEpRNzMwTjAyVS4u)**
+
 Access guide downloads:
 
 - [English PDF](docs/guidance_en.pdf)
@@ -41,7 +43,7 @@ We invite all researchers working on the five Digital Brain targets, or who want
 
 ## Before You Come
 
-- **Register** — fill in your name, affiliation, email, and the target you would like to work on in the [registration sheet](https://docs.google.com/spreadsheets/d/1ZJ2Wwer5RzrD6-z0Fn8XbOSMWDebtzIzTsce7n9m9KU/edit?usp=sharing). You will be added to the Neuro-Workflow system in advance.
+- **Register** — fill in your name, affiliation, email, and the target you would like to work on in the [registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=jfvA2Fa7u0SfSsWOdGVlLnlYVpgjioFPlaHepAKZgopUNkFTWUpDMkNRRU1UQU9FUEpRNzMwTjAyVS4u). You will be added to the Neuro-Workflow system in advance.
 - **Bring your own code** — any Python script you have for a neural model, data preprocessing, analysis, or simulation. Unstructured is fine; that is the starting point.
 - **AI coding agent** — bring your own [Claude Code](https://claude.ai/code) or [Codex](https://platform.openai.com/docs/guides/codex) subscription if you have one. OpenAI API keys will be provided for those who don't (please install Codex in that case). Claude Code is preferred.
 - **Laptop** — with Python and pip installed. Please pre-install any tools you plan to use (e.g. NEST, TVB).
