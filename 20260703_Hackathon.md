@@ -4,16 +4,16 @@
 〒279-0013 Juntendo University Urayasu Hinode Campus, 6-8-1 Hinode, Urayasu, Japan 
 〒279-0013 千葉県浦安市日の出６丁目８−１順天堂大学浦安日の出キャンパス
 
-**[REGISTRATION FORM](https://forms.office.com/Pages/ResponsePage.aspx?id=jfvA2Fa7u0SfSsWOdGVlLnlYVpgjioFPlaHepAKZgopUNkFTWUpDMkNRRU1UQU9FUEpRNzMwTjAyVS4u)**
+**<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=jfvA2Fa7u0SfSsWOdGVlLnlYVpgjioFPlaHepAKZgopUNkFTWUpDMkNRRU1UQU9FUEpRNzMwTjAyVS4u" target="_blank">REGISTRATION FORM</a>**
 
 Access guide downloads:
 
-- [English PDF](docs/guidance_en.pdf)
-- [Japanese PDF](docs/guidance_jp.pdf)
+- <a href="docs/guidance_en.pdf" target="_blank">English PDF</a>
+- <a href="docs/guidance_jp.pdf" target="_blank">Japanese PDF</a>
 
 ## Aim
 
-This hackathon has two interconnected goals centered on [**Neuro-Workflow**](https://github.com/oist/neuro-workflow).
+This hackathon has two interconnected goals centered on <a href="https://github.com/oist/neuro-workflow" target="_blank">**Neuro-Workflow**</a>.
 
 ### 1. Neuro-Workflow as a Model Builder
 
@@ -27,7 +27,7 @@ Introduce and advance Neuro-Workflow as an **AI-friendly representation** of exi
 
 Using each group's existing code as the starting point, participants will:
 
-1. **Build custom nodes** — wrap existing analysis code, models, or pipelines as Neuro-Workflow nodes, following the [node creation tutorial](https://github.com/oist/neuro-workflow) ([video guide](https://youtu.be/9KRuuHBY9Zo?si=7opJIwBy4zeNtjce)) *(new tutorials and documentation to be added)*
+1. **Build custom nodes** — wrap existing analysis code, models, or pipelines as Neuro-Workflow nodes, following the <a href="https://github.com/oist/neuro-workflow" target="_blank">node creation tutorial</a> (<a href="https://youtu.be/9KRuuHBY9Zo?si=7opJIwBy4zeNtjce" target="_blank">video guide</a>) *(new tutorials and documentation to be added)*
 2. **Assemble workflows** — connect nodes into full pipelines, both programmatically via Python notebooks and interactively through the Neuro-Workflow GUI
 3. **Run on server** — execute the assembled workflows on the server from within the GUI
 
@@ -43,9 +43,9 @@ We invite all researchers working on the five Digital Brain targets, or who want
 
 ## Before You Come
 
-- **Register** — fill in your name, affiliation, email, and the target you would like to work on in the [registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=jfvA2Fa7u0SfSsWOdGVlLnlYVpgjioFPlaHepAKZgopUNkFTWUpDMkNRRU1UQU9FUEpRNzMwTjAyVS4u). You will be added to the Neuro-Workflow system in advance.
+- **Register** — fill in your name, affiliation, email, and the target you would like to work on in the <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=jfvA2Fa7u0SfSsWOdGVlLnlYVpgjioFPlaHepAKZgopUNkFTWUpDMkNRRU1UQU9FUEpRNzMwTjAyVS4u" target="_blank">registration form</a>. You will be added to the Neuro-Workflow system in advance.
 - **Bring your own code** — any Python script you have for a neural model, data preprocessing, analysis, or simulation. Unstructured is fine; that is the starting point.
-- **AI coding agent** — bring your own [Claude Code](https://claude.ai/code) or [Codex](https://platform.openai.com/docs/guides/codex) subscription if you have one. OpenAI API keys will be provided for those who don't (please install Codex in that case). Claude Code is preferred.
+- **AI coding agent** — bring your own <a href="https://claude.ai/code" target="_blank">Claude Code</a> or <a href="https://platform.openai.com/docs/guides/codex" target="_blank">Codex</a> subscription if you have one. OpenAI API keys will be provided for those who don't (please install Codex in that case). Claude Code is preferred.
 - **Laptop** — with Python and pip installed. Please pre-install any tools you plan to use (e.g. NEST, TVB).
 
 ## Schedule (tentative)
