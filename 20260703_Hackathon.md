@@ -21,7 +21,7 @@ Introduce Neuro-Workflow as a model builder for running simple brain models, wit
 
 ### 2. Neuro-Workflow as an AI-Friendly Research Platform
 
-Introduce and advance Neuro-Workflow as an **AI-friendly representation** of existing models, pipelines, and processes. The goal is to take existing or preliminary code from each of the five Digital Brain targets and structure it as nodes and workflows, making workflows reproducible on GUI, and supported and executable by AI agents.
+Introduce and advance Neuro-Workflow as an **AI-friendly representation** of existing models, pipelines, and processes. The goal is to take existing or preliminary code and structure it as nodes and workflows, making workflows reproducible on GUI, and supported and executable by AI agents.
 
 #### What we will do
 
@@ -31,7 +31,17 @@ Using each group's existing code as the starting point, participants will:
 2. **Assemble workflows** — connect nodes into full pipelines, both programmatically via Python notebooks and interactively through the Neuro-Workflow GUI
 3. **Run on server** — execute the assembled workflows on the server from within the GUI
 
-We invite all researchers working on the five Digital Brain targets, or who want to collaborate, to join, bring their current pipelines, and collaboratively turn their results into AI-ready workflows:
+#### Modeling Approaches
+
+We would like to support the porting into Neuro-Workflow of models such as:
+
+- **Reverse Engineering Modeling** (Isomura)
+- **Disease Diffusion Modeling** (Doya, Jovan)
+- ... and many others — if you have a model or pipeline you would like to propose, we invite you to bring it.
+
+#### Digital Brain Targets
+
+We also invite researchers working on or around the five Digital Brain targets to join, bring their current pipelines, and turn their results into AI-ready workflows:
 
 | # | Target |
 |---|--------|
@@ -40,6 +50,10 @@ We invite all researchers working on the five Digital Brain targets, or who want
 | 3 | Mapping of gene expression, circuit structure, and circuit function between human and non-human primate brains |
 | 4 | Prediction and stratification models based on large-scale brain imaging data (Innovative Brain / International Brain) |
 | 5 | Construction of a dynamic causal model at the whole-brain level using fMRI data |
+
+#### Open Call — Contribute Your Code
+
+Even if you are not attending the hackathon, if you have code within the Brain/Minds project that you would like to see integrated into Neuro-Workflow, we invite you to contribute. Please <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=jfvA2Fa7u0SfSsWOdGVlLnlYVpgjioFPlaHepAKZgopUNkFTWUpDMkNRRU1UQU9FUEpRNzMwTjAyVS4u" target="_blank">register</a>, note in the comments that you will not attend, and provide a link to your GitHub repository or codebase. You are also welcome to contact us directly by email.
 
 ## Before You Come
 
